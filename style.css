@@ -78,3 +78,8 @@ a, .hero p {
     flex-direction: column;
     width: 150px;
 }
+
+.card img {
+    width: 150px;
+    height: 150px;
+}
