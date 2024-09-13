@@ -76,4 +76,5 @@ a, .hero p {
 .card {
     display: flex;
     flex-direction: column;
+    width: 150px;
 }
