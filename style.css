@@ -37,7 +37,7 @@ ul {
     gap: 20px;
 }
 
-a {
+a, .hero p {
     color: #e5e7eb;
     font-size: 18px;
     font-weight: normal;
