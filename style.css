@@ -71,6 +71,8 @@ a, .hero p {
 
 .cards {
     display: flex;
+    justify-content: center;
+    gap: 50px;
 }
 
 .card {
