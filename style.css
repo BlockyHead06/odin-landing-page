@@ -72,3 +72,8 @@ a, .hero p {
 .cards {
     display: flex;
 }
+
+.card {
+    display: flex;
+    flex-direction: column;
+}
