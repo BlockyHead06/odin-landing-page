@@ -10,6 +10,7 @@ body {
     font-weight: bold;
     display: flex;
     justify-content: space-around;
+    padding: 10px;
 }
 
 ul {
