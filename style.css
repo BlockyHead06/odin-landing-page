@@ -68,3 +68,7 @@ a, .hero p {
     font-weight: 900;
     margin: 40px 0;
 }
+
+.cards {
+    display: flex;
+}
