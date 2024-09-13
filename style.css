@@ -17,6 +17,7 @@ body {
 
 .hero {
     display: flex;
+    align-items: center;
 }
 
 .hero-text h1 {
