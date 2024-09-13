@@ -44,6 +44,7 @@ button {
 .hero-image {
     width: 500px;
     height: 334px;
+    border-radius: 10px;
 }
 
 ul {
