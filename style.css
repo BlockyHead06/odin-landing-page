@@ -19,6 +19,12 @@ body {
     display: flex;
 }
 
+.hero-text h1 {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: 900;
+}
+
 .hero-image {
     width: 500px;
 }
