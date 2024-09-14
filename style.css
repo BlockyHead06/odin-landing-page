@@ -39,6 +39,7 @@ button {
     border: none;
     border-radius: 5px;
     padding: 5px 25px;
+    height: fit-content;
 }
 
 .hero-image {
