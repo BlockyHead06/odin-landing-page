@@ -118,4 +118,6 @@ a, .hero p {
     border-radius: 10px;
     padding: 20px 100px;
     margin: 100px 200px;
+    display: flex;
+    justify-content: space-between;
 }
