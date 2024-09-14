@@ -94,3 +94,7 @@ a, .hero p {
     text-align: center;
     margin: 5px 0;
 }
+
+.quote {
+    background-color: #e5e7eb;
+}
