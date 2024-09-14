@@ -112,3 +112,10 @@ a, .hero p {
     font-weight: bold;
     margin: 5px 0 0;
 }
+
+.cta {
+    background-color: #3882f6;
+    border-radius: 10px;
+    padding: 20px 100px;
+    margin: 100px 200px;
+}
