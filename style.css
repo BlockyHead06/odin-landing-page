@@ -109,4 +109,5 @@ a, .hero p {
 .quote-name {
     text-align: right;
     font-weight: bold;
+    margin: 5px 0 0;
 }
