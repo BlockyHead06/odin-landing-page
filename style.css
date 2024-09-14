@@ -121,6 +121,7 @@ a, .hero p {
     margin: 100px 200px;
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 .cta h3, .cta p {
