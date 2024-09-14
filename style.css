@@ -121,3 +121,7 @@ a, .hero p {
     display: flex;
     justify-content: space-between;
 }
+
+.cta h3, .cta p {
+    margin: 0;
+}
