@@ -98,3 +98,8 @@ a, .hero p {
 .quote {
     background-color: #e5e7eb;
 }
+
+.quote-text {
+    color: #1f2937;
+    font: 36px light italic;
+}
