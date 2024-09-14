@@ -123,5 +123,10 @@ a, .hero p {
 }
 
 .cta h3, .cta p {
+    color: #f9faf8;
     margin: 0;
+}
+
+.cta p {
+    color: #e5e7eb;
 }
