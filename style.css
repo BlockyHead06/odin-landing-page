@@ -103,6 +103,7 @@ a, .hero p {
 .quote-text {
     color: #1f2937;
     font: 36px light italic;
+    margin: 0;
 }
 
 .quote-name {
