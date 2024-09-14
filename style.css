@@ -132,3 +132,7 @@ a, .hero p {
 .cta p {
     color: #e5e7eb;
 }
+
+.cta button {
+    border: 2px solid #f9faf8;
+}
