@@ -104,3 +104,8 @@ a, .hero p {
     color: #1f2937;
     font: 36px light italic;
 }
+
+.quote-name {
+    text-align: right;
+    font-weight: bold;
+}
